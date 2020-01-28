@@ -1,1 +1,1 @@
-# Homework1
+Modified the code to include more semantic HTML elements.
